@@ -32,7 +32,7 @@ Requirements:
 11. `pafy`
 12. `moviepy`
     
-You can setup your project by cloning this repository and install the libraries below using the command below.
+For spesific version please check `requirements.txt`. You can setup your project by cloning this repository and install the libraries below using the command below.
 
 ```bash
 pip install -r requirements.txt
