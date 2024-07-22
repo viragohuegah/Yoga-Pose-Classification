@@ -16,6 +16,14 @@ Model dibangun dengan menggunakan Transfer learning MobileNetV3
 - Model Evaluation <br />
 Validation Accuracy: ~67%
 
+<a name="setup"></a>
+## Setup
+You can setup your project by cloning this repository and install the libraries below using the command below.
+
+```bash
+pip install -r requirements.txt
+```
+
 # Result
 <center><img src="/asset/image_prev.png" height="200" ></center>
 <center><img src="/asset/video_prev.png" height="200"></center>
