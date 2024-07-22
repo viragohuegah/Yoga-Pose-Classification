@@ -2,11 +2,6 @@
 
 We will classify Yoga Pose image or video.
 
-<center><img src="/asset/image_prev.png" height="200" ></center>
-<center><img src="/asset/video_prev.png" height="200"></center>
-
-<a name="project-status"></a>
-
 ## Dataset and Algorithm
 ### 1. Dataset
 - Data Collection <br />
@@ -21,5 +16,10 @@ Model dibangun dengan menggunakan Transfer learning MobileNetV3
 - Model Evaluation <br />
 Validation Accuracy: ~67%
 
+# Result
+<center><img src="/asset/image_prev.png" height="200" ></center>
+<center><img src="/asset/video_prev.png" height="200"></center>
+
+<a name="project-status"></a>
 ## Project Status
 Project is: _complete_
