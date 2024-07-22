@@ -1,0 +1,12 @@
+tensorflow
+keras
+pandas
+numpy
+opencv-python
+matplotlib
+ipython
+pillow
+scikit-learn
+mlflow
+pafy
+moviepy
