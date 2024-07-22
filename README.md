@@ -18,6 +18,20 @@ Validation Accuracy: ~67%
 
 <a name="setup"></a>
 ## Setup
+Requirements:
+1. `tensorflow`
+2. `keras`
+3. `pandas`
+4. `numpy`
+5. `opencv-python`
+6. matplotlib
+7. `ipython`
+8. `pillow`
+9. `scikit-learn`
+10 `mlflow`
+11. `pafy`
+12. `moviepy`
+    
 You can setup your project by cloning this repository and install the libraries below using the command below.
 
 ```bash
