@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/achievment/GDSC/Final/mlruns/705821936793139124/7db16f6bf75d4e8bbb9dba75bd689747/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '705821936793139124'
+lifecycle_stage: active
+run_id: 7db16f6bf75d4e8bbb9dba75bd689747
+run_name: masked-snail-619
+run_uuid: 7db16f6bf75d4e8bbb9dba75bd689747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721587059682
+status: 1
+tags: []
+user_id: '62877'

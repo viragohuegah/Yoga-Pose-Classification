@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/achievment/GDSC/Final/mlruns/705821936793139124/018003c16c2b457bb31b350dfa28ea0b/artifacts
+end_time: 1721585935882
+entry_point_name: ''
+experiment_id: '705821936793139124'
+lifecycle_stage: active
+run_id: 018003c16c2b457bb31b350dfa28ea0b
+run_name: classy-squirrel-291
+run_uuid: 018003c16c2b457bb31b350dfa28ea0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721585935823
+status: 4
+tags: []
+user_id: '62877'
