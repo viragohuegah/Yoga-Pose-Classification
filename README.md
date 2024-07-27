@@ -24,11 +24,11 @@ Requirements:
 3. `pandas`
 4. `numpy`
 5. `opencv-python`
-6. matplotlib
+6. `matplotlib`
 7. `ipython`
 8. `pillow`
 9. `scikit-learn`
-10 `mlflow`
+10. `mlflow`
 11. `pafy`
 12. `moviepy`
     
